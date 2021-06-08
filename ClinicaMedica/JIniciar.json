@@ -1,0 +1,18 @@
+[
+
+  {
+    "Nombre_res": "medico",
+    "Password_res": "$2a$11$HHn.cXCvP7ENNQ1D/.ZUZubG0cl7PxOPHLUpNGICk1XLNJfmWiuaa",
+    "Nivel_res": 1
+  },
+  {
+    "Nombre_res": "secretaria",
+    "Password_res": "$2a$11$cEsaft.ASE2..kGWKikg.OPKQ3Tuyl7fXauGFgVX3loUmv1NqTLua",
+    "Nivel_res": 2
+  },
+  {
+    "Nombre_res": "Jose",
+    "Password_res": "$2a$11$.7QMKcNgd1nO15uzNihbSe6olw7KHY8EsCPhDrYJCP98/yMZo3Qj.",
+    "Nivel_res": 1
+  }
+]
